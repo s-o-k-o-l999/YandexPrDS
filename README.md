@@ -7,7 +7,7 @@ This repository contains my projects from the "Data Science Specialist" training
 
 #### Содержание: / Content:
 
-- **Выпускной проект / Final project**  - *Project_final*
+- **Выпускной проект / Final project**  - *FinalProjectYpGit*
 
 ## Project_final
 
